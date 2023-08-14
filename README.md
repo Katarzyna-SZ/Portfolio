@@ -41,7 +41,7 @@ By applying set of skills I had used so far like <b>creativity, attention to det
 <li>Visual Studio Code basics</li>
 <li>HTML basics</li>
 <li>CSS styles basics</li>
-<li>Website project with CV example</li>
+<li><a href="https://github.com/Katarzyna-SZ/Maraton_HTML_CSS_GoIT.git">Website project with CV example</a></li>
 </ul>
 
 </section>
