@@ -108,7 +108,7 @@ By applying set of skills I had used so far like <b>creativity, attention to det
   <li>Postman</li>
   <li>Git</li>
   <li>Figma</li>
-  <li>Visual Studio Code - podstawy</li>
+  <li>Visual Studio Code - basics</li>
 </section>
 
 <hr>
