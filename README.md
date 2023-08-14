@@ -1,10 +1,10 @@
 # SOFTWARE TESTER PORTFOLIO
 
-<h3>TABLE OF CONTENTS</h3>
+<h4>TABLE OF CONTENTS</h4>
 
 <hr>
 
-✔️<a href="#about">ABOUT ME</a> ✔️<a href="#projects">PROJECTS</a> ✔️<a href="#software">SOFTWARE</a> ✔️<a href="#techskills">TECH SKILLS</a> ✔️[SOFT SKILLS](#softskills) ✔️[BOOKS ABOUT TESTING](#books) ✔️RECOMMENDED BLOGS ABOUT TESTING](#blogs) ✔️[GROUPS ABOUT TESTING ON FACEBOOK](#face)
+✔️<a href="#about">ABOUT ME</a> ✔️<a href="#projects">PROJECTS</a> ✔️<a href="#courses">COURSES</a>✔️<a href="#software">SOFTWARE</a> ✔️<a href="#techskills">TECH SKILLS</a> ✔️[SOFT SKILLS](#softskills) ✔️[BOOKS ABOUT TESTING](#books) ✔️RECOMMENDED BLOGS ABOUT TESTING](#blogs) ✔️[GROUPS ABOUT TESTING ON FACEBOOK](#face)
 
 <hr>
 
@@ -37,6 +37,33 @@ By applying set of skills I had used so far like <b>creativity, attention to det
   <li>Creating test cases.</li>
 </ul>
 
+</section>
+
+<hr>
+
+<section>
+<h3 id="courses">COURSES</h3>
+<section>
+  <h4>AUGUST 2023</h4>
+  <h4 <span> ☑️ SQL for beginners - PostgreSQL ('SQL dla początkujących - PostgreSQL') - Udemy</span></h4>
+  <h4 <span> ☑️ GIT course for beginners ('Kurs GIT dla początkujących') - Udemy</span></h4>
+   <ul>
+   <li>Creating a local repository.</li>
+   <li>Adding files to the index.</li>
+   <li>Committing files to the repository.</li>
+   <li>Verifying and undoing unsaved changes.</li>
+   <li>Creating branches.</li>
+   <li>Integrating with Git.</li>
+     
+  <h4 <span> ☑️ Postman: Testing REST APIs ('Postman - testowanie REST API') - Udemy</span></h4>
+   
+</section>
+  <section>
+  <h4>JUNE 2023</h4>
+  <h4 <span> ☑️ Practical course in software testing ('Praktyczny kurs testowania oprogramowania') - Udemy</span></h4>
+</section>
+  <h4>APRIL 2023</h4>
+  <h4 <span> ☑️ Fundamentals of manual software testing ('Podstawy manualnego testowania oprogramowania') - Udemy</span></h4>
 </section>
 
 <hr>
