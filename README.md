@@ -3,9 +3,7 @@
 <h4>TABLE OF CONTENTS</h4>
 
 <hr>
-
-✔️<a href="#about">ABOUT ME</a> ✔️<a href="#projects">PROJECTS</a> ✔️<a href="#courses">COURSES</a>✔️<a href="#software">SOFTWARE</a> ✔️<a href="#techskills">TECH SKILLS</a> ✔️[SOFT SKILLS](#softskills) ✔️[BOOKS ABOUT TESTING](#books) ✔️RECOMMENDED BLOGS ABOUT TESTING](#blogs) ✔️[GROUPS ABOUT TESTING ON FACEBOOK](#face)
-
+✔️<a href="#about">ABOUT ME</a> ✔️<a href="#projects">PROJECTS</a> ✔️<a href="#courses">COURSES</a>✔️<a href="#software">SOFTWARE</a> ✔️<a href="#hardskills">HARD SKILLS</a> ✔️<a href="#softskills">SOFT SKILLS</a>
 <hr>
 
 <section>
@@ -27,7 +25,7 @@ By applying set of skills I had used so far like <b>creativity, attention to det
 <h3 id="projects">PROJECTS</h3>
 
 <h4 <span>&#9989 Cherry-IT: COLT 2/2023 led by <a href="https://www.linkedin.com/in/ania-czyrko-05933aa1/">Anna Czyrko</a></span></h4>
-<p>(from July to August 2023)</p>
+<p>from July to August 2023</p>
 <p>Scope of work:</p>
 <ul>
   <li>Initiating work with GIT, including installation and creation of the first repository.</li>
@@ -35,6 +33,15 @@ By applying set of skills I had used so far like <b>creativity, attention to det
   <li>Working with branches.</li>
   <li>Reporting issues and practicing defect reporting using JIRA.</li>
   <li>Creating test cases.</li>
+</ul>
+
+<h4 <span>&#9989 <a href="https://m.goit.global/pl/?utm_source=google&utm_medium=cpc&utm_campaign=19908700535&utm_term=146264932926|652825193268||go-it&gad=1&gclid=CjwKCAjw9pGjBhB-EiwAa5jl3KnsR1nsyVDGSMKU0Rik7QbR2aWH7Dwb69fbmp7JSQsoSNztEpy_ghoCqsEQAvD_BwE">7-Day Marathon HTML+CSS GoIT</a></span></h4>
+<p>August 2023</p>
+<ul>
+<li>Visual Studio Code basics</li>
+<li>HTML basics</li>
+<li>CSS styles basics</li>
+<li>Website project with CV example</li>
 </ul>
 
 </section>
@@ -54,16 +61,38 @@ By applying set of skills I had used so far like <b>creativity, attention to det
    <li>Verifying and undoing unsaved changes.</li>
    <li>Creating branches.</li>
    <li>Integrating with Git.</li>
-     
+   </ul>
   <h4 <span> ☑️ Postman: Testing REST APIs ('Postman - testowanie REST API') - Udemy</span></h4>
    
 </section>
   <section>
   <h4>JUNE 2023</h4>
   <h4 <span> ☑️ Practical course in software testing ('Praktyczny kurs testowania oprogramowania') - Udemy</span></h4>
+  <ul> 
+    <li>BrowserStack platform</li>
+    <li>API testing</li>
+    <li>Practical web application testing</li>
+    <li>SQL language syntax</li>
+    <li>Security and performance testing</li>
+    
 </section>
   <h4>APRIL 2023</h4>
   <h4 <span> ☑️ Fundamentals of manual software testing ('Podstawy manualnego testowania oprogramowania') - Udemy</span></h4>
+  <ul>
+  <li>Theory and techniques of testing.</li>
+  <li>Tools for test case management.</li>
+  <li>JIRA</li>
+  <li>Web application architecture</li>
+  <li>Software development models</li>
+  </ul>
+  <h4 <span> ☑️ <a href="https://www.nowaty.coi.gov.pl/">New you in IT ('Nowa Ty w IT') - Centralny Ośrodek Informatyki</a></span></h4>
+  <ul>
+  <li>Business requirements</li>
+  <li>Software development methodologies</li>
+  <li>Roles in the creative process</li>
+  <li>Agile approach</li>
+  <li>SCRUM methodology</li>
+    </ul>
 </section>
 
 <hr>
@@ -85,6 +114,20 @@ By applying set of skills I had used so far like <b>creativity, attention to det
 <hr>
 
 <section>
-<h3 id="techskills">TECH SKILLS</h3>
+<h3 id="softskills">SOFT SKILLS</h3>
 </section>
+
+<hr>
+
+<section>
+<h3 id="hardskills">HARD SKILLS</h3>
+</section>
+
+<hr>
+
+
+
+
+
+
 
