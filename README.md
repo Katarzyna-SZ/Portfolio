@@ -115,12 +115,32 @@ By applying set of skills I had used so far like <b>creativity, attention to det
 
 <section>
 <h3 id="softskills">SOFT SKILLS</h3>
+<ul>
+<li>TEAMWORK</li>
+<li>Fast adaptability</li>
+<li>Effective communication</li>
+<li>Open-mindedness</li>
+<li>Organizational skills with ability to prioritize</li>
+<li>Attention to detail</li>
+<li>Analytical thinking</li>
+<li>Continuous learning</li> 
+</ul>
 </section>
 
 <hr>
 
 <section>
 <h3 id="hardskills">HARD SKILLS</h3>
+<ul>
+<li>ISTQB (basics) knowledge</li>
+<li>PostgreSQL basics</li>
+<li>Agile methotology</li>
+<li>HTML/CSS basics</li>
+<li>Knowledge of testing techniques: functional, regression, usability testing</li>
+<li>Designing test cases</li>
+<li>Test execution and reporting</li>
+<li>Creating and maintaining testing documentation</li>
+</ul>
 </section>
 
 <hr>
