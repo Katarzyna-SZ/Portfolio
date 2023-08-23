@@ -3,7 +3,7 @@
 <h4>TABLE OF CONTENTS</h4>
 
 <hr>
-✔️<a href="#about">ABOUT ME</a> ✔️<a href="#projects">PROJECTS</a> ✔️<a href="#courses">COURSES</a>✔️<a href="#software">SOFTWARE</a> ✔️<a href="#hardskills">HARD SKILLS</a> ✔️<a href="#softskills">SOFT SKILLS</a>
+✔️<a href="#about">ABOUT ME</a> ✔️<a href="#projects">PROJECTS</a> ✔️<a href="#courses">COURSES</a>✔️<a href="#software">SOFTWARE</a> ✔️<a href="#techskills">TECH SKILLS</a> ✔️<a href="#softskills">SOFT SKILLS</a>
 <hr>
 
 <section>
@@ -130,7 +130,7 @@ By applying set of skills I had used so far like <b>creativity, attention to det
 <hr>
 
 <section>
-<h3 id="hardskills">HARD SKILLS</h3>
+<h3 id="techskills">TECH SKILLS</h3>
 <ul>
 <li>ISTQB (basics) knowledge</li>
 <li>PostgreSQL basics</li>
