@@ -132,7 +132,7 @@ By applying set of skills I had used so far like <b>creativity, attention to det
 <section>
 <h3 id="techskills">TECH SKILLS</h3>
 <ul>
-<li>ISTQB (basics) knowledge</li>
+<li>knowledge of ISTQB Foundation Level </li>
 <li>PostgreSQL basics</li>
 <li>Agile methotology</li>
 <li>HTML/CSS basics</li>
