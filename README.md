@@ -52,14 +52,24 @@ By applying set of skills I had used so far like <b>creativity, attention to det
 <h3 id="courses">COURSES</h3>
 <section>
   <h4>AUGUST 2023</h4>
+  <h4 <span> ☑️ SQL for beginners - PostgreSQL ('SQL dla początkujących - PostgreSQL') - Udemy</span></h4>
+  <ul>
+    <li>Installing pgAdmin and creating a database</li>
+    <li>Selecting, filtering and sorting data</li>
+    <li>Aggregating values</li>
+    <li>Using functions and calculations</li>
+    <li>Writing queries for multiple tables</li>
+    <li>Modifying data</li>
+  </ul>
+
   <h4 <span> ☑️ GIT course for beginners ('Kurs GIT dla początkujących') - Udemy</span></h4>
    <ul>
-   <li>Creating a local repository.</li>
-   <li>Adding files to the index.</li>
-   <li>Committing files to the repository.</li>
-   <li>Verifying and undoing unsaved changes.</li>
-   <li>Creating branches.</li>
-   <li>Integrating with Git.</li>
+   <li>Creating a local repository</li>
+   <li>Adding files to the index</li>
+   <li>Committing files to the repository</li>
+   <li>Verifying and undoing unsaved changes</li>
+   <li>Creating branches</li>
+   <li>Integrating with Git</li>
    </ul>
    
 </section>
@@ -77,8 +87,8 @@ By applying set of skills I had used so far like <b>creativity, attention to det
   <h4>APRIL 2023</h4>
   <h4 <span> ☑️ Fundamentals of manual software testing ('Podstawy manualnego testowania oprogramowania') - Udemy</span></h4>
   <ul>
-  <li>Theory and techniques of testing.</li>
-  <li>Tools for test case management.</li>
+  <li>Theory and techniques of testing</li>
+  <li>Tools for test case management</li>
   <li>JIRA</li>
   <li>Web application architecture</li>
   <li>Software development models</li>
