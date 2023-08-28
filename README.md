@@ -52,7 +52,6 @@ By applying set of skills I had used so far like <b>creativity, attention to det
 <h3 id="courses">COURSES</h3>
 <section>
   <h4>AUGUST 2023</h4>
-  <h4 <span> ☑️ SQL for beginners - PostgreSQL ('SQL dla początkujących - PostgreSQL') - Udemy</span></h4>
   <h4 <span> ☑️ GIT course for beginners ('Kurs GIT dla początkujących') - Udemy</span></h4>
    <ul>
    <li>Creating a local repository.</li>
@@ -105,7 +104,6 @@ By applying set of skills I had used so far like <b>creativity, attention to det
   <li>Jira</li>
   <li>Software testing management tools: TestRail, TestLink, qTest</li>
   <li>pgAdmin</li>
-  <li>Postman</li>
   <li>Git</li>
   <li>Figma</li>
   <li>Visual Studio Code - basics</li>
