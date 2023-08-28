@@ -61,7 +61,6 @@ By applying set of skills I had used so far like <b>creativity, attention to det
    <li>Creating branches.</li>
    <li>Integrating with Git.</li>
    </ul>
-  <h4 <span> ☑️ Postman: Testing REST APIs ('Postman - testowanie REST API') - Udemy</span></h4>
    
 </section>
   <section>
