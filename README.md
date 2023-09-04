@@ -55,7 +55,7 @@ By applying set of skills I had used so far like <b>creativity, attention to det
   <h4 <span> ☑️ Postman - testing REST API ('Postman - testowanie REST API') - Udemy</span></h4>
   <ul>
     <li>Three-tier architecture of web applications</li>
-    <li>HTTP protocol and methods.</li>
+    <li>HTTP protocol and methods</li>
     <li>Retrieving, filtering, adding, updating, deleting posts</li>
     <li>REST API testing</li>
     <li>Running collections from the command line</li>
