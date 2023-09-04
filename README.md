@@ -48,9 +48,21 @@ By applying set of skills I had used so far like <b>creativity, attention to det
 
 <hr>
 
-<section>
+
 <h3 id="courses">COURSES</h3>
 <section>
+  <h4>SEPTEMBER 2023</h4>
+  <h4 <span> ☑️ Postman - testing REST API ('Postman - testowanie REST API') - Udemy</span></h4>
+  <ul>
+    <li>Three-tier architecture of web applications</li>
+    <li>HTTP protocol and methods.</li>
+    <li>Retrieving, filtering, adding, updating, deleting posts</li>
+    <li>REST API testing</li>
+    <li>Running collections from the command line</li>
+  </ul>
+</section>
+
+ <section> 
   <h4>AUGUST 2023</h4>
   <h4 <span> ☑️ SQL for beginners - PostgreSQL ('SQL dla początkujących - PostgreSQL') - Udemy</span></h4>
   <ul>
@@ -70,9 +82,9 @@ By applying set of skills I had used so far like <b>creativity, attention to det
    <li>Verifying and undoing unsaved changes</li>
    <li>Creating branches</li>
    <li>Integrating with Git</li>
-   </ul>
-   
+   </ul>   
 </section>
+
   <section>
   <h4>JUNE 2023</h4>
   <h4 <span> ☑️ Practical course in software testing ('Praktyczny kurs testowania oprogramowania') - Udemy</span></h4>
@@ -81,9 +93,10 @@ By applying set of skills I had used so far like <b>creativity, attention to det
     <li>API testing</li>
     <li>Practical web application testing</li>
     <li>SQL language syntax</li>
-    <li>Security and performance testing</li>
-    
-</section>
+    <li>Security and performance testing</li>    
+ </section>
+
+ <section>
   <h4>APRIL 2023</h4>
   <h4 <span> ☑️ Fundamentals of manual software testing ('Podstawy manualnego testowania oprogramowania') - Udemy</span></h4>
   <ul>
@@ -101,7 +114,7 @@ By applying set of skills I had used so far like <b>creativity, attention to det
   <li>Agile approach</li>
   <li>SCRUM methodology</li>
     </ul>
-</section>
+ </section>
 
 <hr>
 
