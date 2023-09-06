@@ -156,7 +156,7 @@ By applying set of skills I had used so far like <b>creativity, attention to det
 <li>PostgreSQL basics</li>
 <li>Agile methotology</li>
 <li>HTML/CSS basics</li>
-<li>Knowledge of testing techniques: functional, regression, usability testing</li>
+<li>Knowledge of testing techniques</li>
 <li>Designing test cases</li>
 <li>Test execution and reporting</li>
 <li>Creating and maintaining testing documentation</li>
