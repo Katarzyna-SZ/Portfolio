@@ -24,6 +24,11 @@ By applying set of skills I had used so far like <b>creativity, attention to det
 <section>
 <h3 id="projects">PROJECTS</h3>
 
+<section>
+  <h4>from September 2023</h4>
+  <h4 <span> [DARE IT - Challenge portfolio](https://github.com/Katarzyna-SZ/challenge_portfolio_katarzyna) </span></h4>
+</section>
+
 <h4 <span>&#9989 Cherry-IT: COLT 2/2023 led by <a href="https://www.linkedin.com/in/ania-czyrko-05933aa1/">Anna Czyrko</a></span></h4>
 <p>from July to August 2023</p>
 <p>Scope of work:</p>
@@ -50,17 +55,6 @@ By applying set of skills I had used so far like <b>creativity, attention to det
 
 
 <h3 id="courses">COURSES</h3>
-<section>
-  <h4>SEPTEMBER 2023</h4>
-  <h4 <span> ☑️ Postman - testing REST API ('Postman - testowanie REST API') - Udemy</span></h4>
-  <ul>
-    <li>Three-tier architecture of web applications</li>
-    <li>HTTP protocol and methods</li>
-    <li>Retrieving, filtering, adding, updating, deleting posts</li>
-    <li>REST API testing</li>
-    <li>Running collections from the command line</li>
-  </ul>
-</section>
 
  <section> 
   <h4>AUGUST 2023</h4>
