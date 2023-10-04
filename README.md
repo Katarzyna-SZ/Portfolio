@@ -24,10 +24,9 @@ By applying set of skills I had used so far like <b>creativity, attention to det
 <section>
 <h3 id="projects">PROJECTS</h3>
 
-<section>
-  <h4>from September 2023</h4>
-  <h4 <span>&#9989 <a href= "https://github.com/Katarzyna-SZ/challenge_portfolio_katarzyna"> DARE IT - Challenge portfolio </a> </span></h4>
-</section>
+
+<h4 <span>&#9989 <a href= "https://github.com/Katarzyna-SZ/challenge_portfolio_katarzyna"> DARE IT - Challenge portfolio </a> </span></h4>
+<p>from September 2023</p>
 
 <h4 <span>&#9989 Cherry-IT: COLT 2/2023 led by <a href="https://www.linkedin.com/in/ania-czyrko-05933aa1/">Anna Czyrko</a></span></h4>
 <p>from July to August 2023</p>
