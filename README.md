@@ -26,18 +26,18 @@ By applying set of skills I had used so far like <b>creativity, attention to det
 
 
 <h4 <span>&#9989 <a href= "https://github.com/Katarzyna-SZ/challenge_portfolio_katarzyna"> DARE IT - Challenge portfolio </a> </span></h4>
-<p><b>from September 2023</b></p>
+<p><b>from September 2023 - in progress</b></p>
 
 <p><b>DARE IT Manual testing in practice</b> is a 7-week challenge consisting of 6 technical tasks that are worked on in weekly sprints. The individual tasks contribute to the QA Manual Testing project.</p>
 
 <p>Scope of work:</p>
 <ul>
-   <li>Task 1 - Exploratory Testing</li>
-   <li>Task 2 - Test Cases</li>
-   <li>Task 3 - Bug Reporting</li>
-   <li>Task 4 - Mobile Application Testing</li>
-   <li>Task 5 - SQL Part 1</li>
-   <li> Task 6 - SQL Part 2</li>
+   <li><a href="https://github.com/Katarzyna-SZ/challenge_portfolio_katarzyna/blob/main/TASK1.md">Task 1 - Exploratory Testing</a></li>
+   <li><a href="https:https://github.com/Katarzyna-SZ/challenge_portfolio_katarzyna/blob/main/TASK2.md">Task 2 - Test Cases</li>
+   <li><a href="https:https://github.com/Katarzyna-SZ/challenge_portfolio_katarzyna/blob/main/TASK3.md">Task 3 - Bug Reporting</li>
+   <li><a href="https:https://github.com/Katarzyna-SZ/challenge_portfolio_katarzyna/blob/main/TASK4.md">Task 4 - Mobile Application Testing</li>
+   <li><a href="https:https://github.com/Katarzyna-SZ/challenge_portfolio_katarzyna/blob/main/TASK5.md">Task 5 - SQL Part 1</li>
+   <li><a href="https:https://github.com/Katarzyna-SZ/challenge_portfolio_katarzyna/blob/main/TASK6.md">Task 6 - SQL Part 2</li>
  </ul>
 
 <h4 <span>&#9989 Cherry-IT: COLT 2/2023 led by <a href="https://www.linkedin.com/in/ania-czyrko-05933aa1/">Anna Czyrko</a></span></h4>
