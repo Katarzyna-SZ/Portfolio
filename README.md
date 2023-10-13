@@ -33,11 +33,11 @@ By applying set of skills I had used so far like <b>creativity, attention to det
 <p>Scope of work:</p>
 <ul>
    <li><a href="https://github.com/Katarzyna-SZ/challenge_portfolio_katarzyna/blob/main/TASK1.md">Task 1 - Exploratory Testing</a></li>
-   <li><a href="https:https://github.com/Katarzyna-SZ/challenge_portfolio_katarzyna/blob/main/TASK2.md">Task 2 - Test Cases</li>
-   <li><a href="https:https://github.com/Katarzyna-SZ/challenge_portfolio_katarzyna/blob/main/TASK3.md">Task 3 - Bug Reporting</li>
-   <li><a href="https:https://github.com/Katarzyna-SZ/challenge_portfolio_katarzyna/blob/main/TASK4.md">Task 4 - Mobile Application Testing</li>
-   <li><a href="https:https://github.com/Katarzyna-SZ/challenge_portfolio_katarzyna/blob/main/TASK5.md">Task 5 - SQL Part 1</li>
-   <li><a href="https:https://github.com/Katarzyna-SZ/challenge_portfolio_katarzyna/blob/main/TASK6.md">Task 6 - SQL Part 2</li>
+   <li><a href="https://github.com/Katarzyna-SZ/challenge_portfolio_katarzyna/blob/main/TASK2.md">Task 2 - Test Cases</li>
+   <li><a href="https://github.com/Katarzyna-SZ/challenge_portfolio_katarzyna/blob/main/TASK3.md">Task 3 - Bug Reporting</li>
+   <li><a href="https://github.com/Katarzyna-SZ/challenge_portfolio_katarzyna/blob/main/TASK4.md">Task 4 - Mobile Application Testing</li>
+   <li><a href="https://github.com/Katarzyna-SZ/challenge_portfolio_katarzyna/blob/main/TASK5.md">Task 5 - SQL Part 1</li>
+   <li><a href="https://github.com/Katarzyna-SZ/challenge_portfolio_katarzyna/blob/main/TASK6.md">Task 6 - SQL Part 2</li>
  </ul>
 
 <h4 <span>&#9989 Cherry-IT: COLT 2/2023 led by <a href="https://www.linkedin.com/in/ania-czyrko-05933aa1/">Anna Czyrko</a></span></h4>
