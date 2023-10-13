@@ -26,10 +26,22 @@ By applying set of skills I had used so far like <b>creativity, attention to det
 
 
 <h4 <span>&#9989 <a href= "https://github.com/Katarzyna-SZ/challenge_portfolio_katarzyna"> DARE IT - Challenge portfolio </a> </span></h4>
-<p>from September 2023</p>
+<p><b>from September 2023</b></p>
+
+<p><b>DARE IT Manual testing in practice</b> is a 7-week challenge consisting of 6 technical tasks that are worked on in weekly sprints. The individual tasks contribute to the QA Manual Testing project.</p>
+
+<p>Scope of work:</p>
+<ul>
+   <li>Task 1 - Exploratory Testing</li>
+   <li>Task 2 - Test Cases</li>
+   <li>Task 3 - Bug Reporting</li>
+   <li>Task 4 - Mobile Application Testing</li>
+   <li>Task 5 - SQL Part 1</li>
+   <li> Task 6 - SQL Part 2</li>
+ </ul>
 
 <h4 <span>&#9989 Cherry-IT: COLT 2/2023 led by <a href="https://www.linkedin.com/in/ania-czyrko-05933aa1/">Anna Czyrko</a></span></h4>
-<p>from July to August 2023</p>
+<p><b>from July to August 2023</b></p>
 <p>Scope of work:</p>
 <ul>
   <li>Initiating work with GIT, including installation and creation of the first repository.</li>
@@ -40,18 +52,16 @@ By applying set of skills I had used so far like <b>creativity, attention to det
 </ul>
 
 <h4 <span>&#9989 <a href="https://m.goit.global/pl/?utm_source=google&utm_medium=cpc&utm_campaign=19908700535&utm_term=146264932926|652825193268||go-it&gad=1&gclid=CjwKCAjw9pGjBhB-EiwAa5jl3KnsR1nsyVDGSMKU0Rik7QbR2aWH7Dwb69fbmp7JSQsoSNztEpy_ghoCqsEQAvD_BwE">7-Day Marathon HTML+CSS GoIT</a></span></h4>
-<p>August 2023</p>
+<p><b>August 2023</b></p>
 <ul>
 <li>Visual Studio Code basics</li>
 <li>HTML basics</li>
 <li>CSS styles basics</li>
 <li><a href="https://github.com/Katarzyna-SZ/Maraton_HTML_CSS_GoIT.git">Website project with CV example</a></li>
 </ul>
-
 </section>
 
 <hr>
-
 
 <h3 id="courses">COURSES</h3>
 
