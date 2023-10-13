@@ -1,9 +1,9 @@
-# SOFTWARE TESTER PORTFOLIO
+# SOFTWARE TESTER PORTFOLIO 👩🏻‍💻
 
 <h4>TABLE OF CONTENTS</h4>
 
 <hr>
-✔️<a href="#about">ABOUT ME</a> ✔️<a href="#projects">PROJECTS</a> ✔️<a href="#courses">COURSES</a>✔️<a href="#software">SOFTWARE</a> ✔️<a href="#techskillS">TECH SKILLS</a> ✔️<a href="#softskills">SOFT SKILLS</a>
+✔️<a href="#about">ABOUT ME</a> ✔️<a href="#projects">PROJECTS</a> ✔️<a href="#courses">COURSES</a>✔️<a href="#software">SOFTWARE</a> ✔️<a href="#techskills">TECH SKILLS</a> ✔️<a href="#softskills">SOFT SKILLS</a>
 <hr>
 
 <section>
