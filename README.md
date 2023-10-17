@@ -90,7 +90,7 @@ By applying set of skills I had used so far like <b>creativity, attention to det
 
   <section>
   <h4>📅 JUNE 2023</h4>
-  <h4 <span> ☑️ Practical course in software testing ('Praktyczny kurs testowania oprogramowania') - Udemy</span></h4>
+  <h4 <span> ☑️ Practical course in software testing <a href="https://www.udemy.com/certificate/UC-a5a15448-75a3-43b2-9007-f9082643c0be/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email">(Praktyczny kurs testowania oprogramowania)</a> - Udemy</span></h4>
   <ul> 
     <li>BrowserStack platform</li>
     <li>API testing</li>
