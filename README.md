@@ -66,6 +66,9 @@ By applying set of skills I had used so far like <b>creativity, attention to det
 <h3 id="courses">COURSES</h3>
 
  <section> 
+  <h4>📅 OCTOBER 2023</h4>
+  <h4 <span> ☑️ Postman - REST API testing (Postman - testowanie REST API) - Udemy
+     
   <h4>📅 AUGUST 2023</h4>
   <h4 <span> ☑️ SQL for beginners - PostgreSQL <a href="https://www.udemy.com/certificate/UC-adeb96c5-d9d9-4245-be78-82747af491f3/?utm_source=sendgrid.com&utm_medium=email&utm_campaign=email">('SQL dla początkujących - PostgreSQL')</a> - Udemy</span></h4>
   <ul>
