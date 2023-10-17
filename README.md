@@ -67,7 +67,7 @@ By applying set of skills I had used so far like <b>creativity, attention to det
 
  <section> 
   <h4>📅 AUGUST 2023</h4>
-  <h4 <span> ☑️ SQL for beginners - PostgreSQL ('SQL dla początkujących - PostgreSQL') - Udemy</span></h4>
+  <h4 <span> ☑️ SQL for beginners - PostgreSQL <a href="https://www.udemy.com/certificate/UC-adeb96c5-d9d9-4245-be78-82747af491f3/?utm_source=sendgrid.com&utm_medium=email&utm_campaign=email">('SQL dla początkujących - PostgreSQL')</a> - Udemy</span></h4>
   <ul>
     <li>Installing pgAdmin and creating a database</li>
     <li>Selecting, filtering and sorting data</li>
@@ -77,7 +77,7 @@ By applying set of skills I had used so far like <b>creativity, attention to det
     <li>Modifying data</li>
   </ul>
 
-  <h4 <span> ☑️ GIT course for beginners ('Kurs GIT dla początkujących') - Udemy</span></h4>
+  <h4 <span> ☑️ GIT course for beginners <a href="https://www.udemy.com/certificate/UC-df602190-9d86-405c-94ce-3033af3af66e/?utm_source=sendgrid.com&utm_medium=email&utm_campaign=email"> ('Kurs GIT dla początkujących')</a> - Udemy</span></h4>
    <ul>
    <li>Creating a local repository</li>
    <li>Adding files to the index</li>
@@ -90,7 +90,7 @@ By applying set of skills I had used so far like <b>creativity, attention to det
 
   <section>
   <h4>📅 JUNE 2023</h4>
-  <h4 <span> ☑️ Practical course in software testing (Praktyczny kurs testowania oprogramowania) - Udemy</span></h4>
+  <h4 <span> ☑️ Practical course in software testing <a href="https://www.udemy.com/certificate/UC-0d768115-2bd7-44b9-b669-88ecf0c7ec7e/?utm_source=sendgrid.com&utm_medium=email&utm_campaign=email">(Praktyczny kurs testowania oprogramowania)</a> - Udemy</span></h4>
   <ul> 
     <li>BrowserStack platform</li>
     <li>API testing</li>
