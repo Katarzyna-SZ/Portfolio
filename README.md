@@ -22,7 +22,7 @@ By applying set of skills I had used so far like <b>creativity, attention to det
 <hr>
 
 <section>
-<h3 id="projects">PROJECTS</h3>
+<h3 id="projects">🎯 PROJECTS</h3>
 
 
 <h4 <span>&#9989 <a href= "https://github.com/Katarzyna-SZ/challenge_portfolio_katarzyna"> DARE IT - Challenge portfolio </a> </span></h4>
@@ -63,7 +63,7 @@ By applying set of skills I had used so far like <b>creativity, attention to det
 
 <hr>
 
-<h3 id="courses">COURSES</h3>
+<h3 id="courses">📚 COURSES</h3>
 
  <section> 
   <h4>📅 OCTOBER 2023</h4>
@@ -125,7 +125,7 @@ By applying set of skills I had used so far like <b>creativity, attention to det
 <hr>
 
 <section>
-<h3 id="software">SOFTWARE</h3>
+<h3 id="software">🛠️ SOFTWARE</h3>
   <ul>
   <li>Slack</li>
   <li>Trello</li>
@@ -134,13 +134,13 @@ By applying set of skills I had used so far like <b>creativity, attention to det
   <li>pgAdmin</li>
   <li>Git</li>
   <li>Figma</li>
-  <li>Visual Studio Code - basics</li>
+  <li>Visual Studio Code - for html & css use</li>
 </section>
 
 <hr>
 
 <section>
-<h3 id="softskills">SOFT SKILLS</h3>
+<h3 id="softskills">🤝🧏🏻 SOFT SKILLS</h3>
 <ul>
 <li>TEAMWORK</li>
 <li>Fast adaptability</li>
@@ -156,7 +156,7 @@ By applying set of skills I had used so far like <b>creativity, attention to det
 <hr>
 
 <section>
-<h3 id="techskills">TECH SKILLS</h3>
+<h3 id="techskills">🚀 TECH SKILLS</h3>
 <ul>
 <li>Knowledge of ISTQB Foundation Level </li>
 <li>PostgreSQL basics</li>
