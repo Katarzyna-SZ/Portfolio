@@ -131,7 +131,7 @@ By applying set of skills I had used so far like <b>creativity, attention to det
   <li>Trello</li>
   <li>Jira</li>
   <li>Software testing management tools: TestRail, TestLink, qTest</li>
-  <li>pgAdmin</li>
+  <li>pgAdmin, phpMyAdmin, SQL Management Studio</li>
   <li>Git</li>
   <li>Figma</li>
   <li>Visual Studio Code - for html & css use</li>
