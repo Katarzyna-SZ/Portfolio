@@ -26,7 +26,7 @@ By applying set of skills I had used so far like <b>creativity, attention to det
 
 
 <h4 <span>&#9989 <a href= "https://github.com/Katarzyna-SZ/challenge_portfolio_katarzyna"> DARE IT - Challenge portfolio </a> </span></h4>
-<p><b>📅 from September 2023 - in progress</b></p>
+<p><b>📅 from September to October 2023 - in progress</b></p>
 
 <p><b>DARE IT Manual testing in practice</b> is a 7-week challenge consisting of 6 technical tasks that are worked on in weekly sprints. The individual tasks contribute to the QA Manual Testing project.</p>
 
@@ -68,7 +68,7 @@ By applying set of skills I had used so far like <b>creativity, attention to det
  <section> 
   <h4>📅 OCTOBER 2023</h4>
   <h4 <span> ☑️ Postman - REST API testing (Postman - testowanie REST API) - Udemy
-     
+  <h4 <span> ☑️ <a href="https://www.udemy.com/certificate/UC-73c38e44-9a04-46ec-8cb1-933559a434b9/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com">HTML for QA Testers (DevTools, Accessibility, XPath) - Udemy</a> 
   <h4>📅 AUGUST 2023</h4>
   <h4 <span> ☑️ SQL for beginners - PostgreSQL <a href="https://www.udemy.com/certificate/UC-adeb96c5-d9d9-4245-be78-82747af491f3/?utm_source=sendgrid.com&utm_medium=email&utm_campaign=email">('SQL dla początkujących - PostgreSQL')</a> - Udemy</span></h4>
   <ul>
