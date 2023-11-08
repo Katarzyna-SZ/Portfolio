@@ -66,8 +66,10 @@ By applying set of skills I had used so far like <b>creativity, attention to det
 <h3 id="courses">📚 COURSES</h3>
 
  <section> 
+  <h4>📅 NOVEMBER 2023</h4>
+  <h4 <span> ☑️ <a href="https://www.udemy.com/certificate/UC-91f306fd-43d7-4527-bcff-3da96f13e4a1/">Postman - REST API testing (Postman - testowanie REST API) - Udemy</a><span></span></h4>
+     
   <h4>📅 OCTOBER 2023</h4>
-  <h4 <span> ☑️ Postman - REST API testing (Postman - testowanie REST API) - Udemy
   <h4 <span> ☑️ <a href="https://www.udemy.com/certificate/UC-73c38e44-9a04-46ec-8cb1-933559a434b9/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com">HTML for QA Testers (DevTools, Accessibility, XPath) - Udemy</a><span></span></h4>
      
    <ul>
