@@ -26,7 +26,7 @@ By applying set of skills I had used so far like <b>creativity, attention to det
 
 
 <h4 <span>&#9989 <a href= "https://github.com/Katarzyna-SZ/challenge_portfolio_katarzyna"> DARE IT - Challenge portfolio </a> </span></h4>
-<p><b>📅 from September to October 2023 - in progress</b></p>
+<p><b>📅 from September to October 2023</b></p>
 
 <p><b>DARE IT Manual testing in practice</b> is a 7-week challenge consisting of 6 technical tasks that are worked on in weekly sprints. The individual tasks contribute to the QA Manual Testing project.</p>
 
