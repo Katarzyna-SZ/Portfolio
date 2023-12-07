@@ -67,8 +67,20 @@ By applying set of skills I had used so far like <b>creativity, attention to det
 
  <section> 
   <h4>📅 NOVEMBER 2023</h4>
+  <h4> ☑️ Introduction to JavaScript </h4>
+    <h5>from 30th of November - in progress</h5>
+    <p>A comprehensive introduction to the JavaScript language, 8-week international course organized by <a href="https://codefirstgirls.com/">Code First Girls</a>. </p>
+    <p>The program covers basics of:</p>
+    <ul>
+       <li>Javascript</li>
+       <li>the DOM</li>
+       <li>the DOM</li>
+       <li>Debugging</li>
+       <li>ini website skills project</li>
+    </ul>
+    
   <h4 <span> ☑️ <a href="https://www.udemy.com/certificate/UC-91f306fd-43d7-4527-bcff-3da96f13e4a1/">Postman - REST API testing (Postman - testowanie REST API) - Udemy</a><span></span></h4>
-     
+  <br>   
   <h4>📅 OCTOBER 2023</h4>
   <h4 <span> ☑️ <a href="https://www.udemy.com/certificate/UC-73c38e44-9a04-46ec-8cb1-933559a434b9/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com">HTML for QA Testers (DevTools, Accessibility, XPath) - Udemy</a><span></span></h4>
      
@@ -77,7 +89,9 @@ By applying set of skills I had used so far like <b>creativity, attention to det
     <li>Web Accessibility Standards</li>
     <li>What is XPATH</li>
   </ul>
-     
+  
+  <br>  
+  
   <h4>📅 AUGUST 2023</h4>
   <h4 <span> ☑️ SQL for beginners - PostgreSQL <a href="https://www.udemy.com/certificate/UC-adeb96c5-d9d9-4245-be78-82747af491f3/?utm_source=sendgrid.com&utm_medium=email&utm_campaign=email">('SQL dla początkujących - PostgreSQL')</a> - Udemy</span></h4>
   <ul>
@@ -99,7 +113,7 @@ By applying set of skills I had used so far like <b>creativity, attention to det
    <li>Integrating with Git</li>
    </ul>   
 </section>
-
+  <br> 
   <section>
   <h4>📅 JUNE 2023</h4>
   <h4 <span> ☑️ Practical course in software testing <a href="https://www.udemy.com/certificate/UC-0d768115-2bd7-44b9-b669-88ecf0c7ec7e/?utm_source=sendgrid.com&utm_medium=email&utm_campaign=email">(Praktyczny kurs testowania oprogramowania)</a> - Udemy</span></h4>
@@ -110,7 +124,9 @@ By applying set of skills I had used so far like <b>creativity, attention to det
     <li>SQL language syntax</li>
     <li>Security and performance testing</li>    
  </section>
-
+     
+  <br> 
+  
  <section>
   <h4>📅 APRIL 2023</h4>
   <h4 <span> ☑️ Fundamentals of manual software testing <a href="https://www.udemy.com/certificate/UC-a5a15448-75a3-43b2-9007-f9082643c0be/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email">(Podstawy manualnego testowania oprogramowania)</a> - Udemy</span></h4>
