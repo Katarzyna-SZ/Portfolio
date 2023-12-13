@@ -74,9 +74,8 @@ By applying set of skills I had used so far like <b>creativity, attention to det
     <ul>
        <li>Javascript</li>
        <li>the DOM</li>
-       <li>the DOM</li>
        <li>Debugging</li>
-       <li>ini website skills project</li>
+       <li>Website skills project</li>
     </ul>
     
   <h4 <span> ☑️ <a href="https://www.udemy.com/certificate/UC-91f306fd-43d7-4527-bcff-3da96f13e4a1/">Postman - REST API testing (Postman - testowanie REST API) - Udemy</a><span></span></h4>
