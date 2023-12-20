@@ -66,8 +66,22 @@ By applying set of skills I had used so far like <b>creativity, attention to det
 <h3 id="courses">📚 COURSES</h3>
 
  <section> 
+  <h4>📅 DECEMBER 2023</h4>
+  <h4>☑️ REST API Manual and Automation Foundation Level - Jaktestowac.pl  | in progress </h4>
+    <p>The program covers:</p>
+    <ul>
+       <li>Testing REST API - theory, HTTP Protocol, front-end/back-end communication, content and documentation in REST API.</li>
+       <li>Testing REST API with Postman</li>
+       <li>JavaScript for testers</li>
+       <li>Automated Tests for REST API in JavaScript</li>
+    </ul>
+
+   <h4>☑️ Cypress: Web Automation Testing from Zero to Hero - Udemy | in progress </h4>
+    
+  <br>
+  
   <h4>📅 NOVEMBER 2023</h4>
-  <h4> ☑️ Introduction to JavaScript </h4>
+  <h4>☑️ Introduction to JavaScript </h4>
     <h5>from 30th of November - in progress</h5>
     <p>A comprehensive introduction to the JavaScript language, 8-week international course organized by <a href="https://codefirstgirls.com/">Code First Girls</a>. </p>
     <p>The program covers basics of:</p>
@@ -78,10 +92,12 @@ By applying set of skills I had used so far like <b>creativity, attention to det
        <li>Website skills project</li>
     </ul>
     
-  <h4 <span> ☑️ <a href="https://www.udemy.com/certificate/UC-91f306fd-43d7-4527-bcff-3da96f13e4a1/">Postman - REST API testing (Postman - testowanie REST API) - Udemy</a><span></span></h4>
-  <br>   
+  <h4>☑️ <a href="https://www.udemy.com/certificate/UC-91f306fd-43d7-4527-bcff-3da96f13e4a1/">Postman - REST API testing (Postman - testowanie REST API) - Udemy</a><span></span></h4>
+  
+  <br>  
+  
   <h4>📅 OCTOBER 2023</h4>
-  <h4 <span> ☑️ <a href="https://www.udemy.com/certificate/UC-73c38e44-9a04-46ec-8cb1-933559a434b9/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com">HTML for QA Testers (DevTools, Accessibility, XPath) - Udemy</a><span></span></h4>
+  <h4>☑️ <a href="https://www.udemy.com/certificate/UC-73c38e44-9a04-46ec-8cb1-933559a434b9/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com">HTML for QA Testers (DevTools, Accessibility, XPath) - Udemy</a><span></span></h4>
      
    <ul>
     <li>HTML DOM</li>
@@ -92,7 +108,7 @@ By applying set of skills I had used so far like <b>creativity, attention to det
   <br>  
   
   <h4>📅 AUGUST 2023</h4>
-  <h4 <span> ☑️ SQL for beginners - PostgreSQL <a href="https://www.udemy.com/certificate/UC-adeb96c5-d9d9-4245-be78-82747af491f3/?utm_source=sendgrid.com&utm_medium=email&utm_campaign=email">('SQL dla początkujących - PostgreSQL')</a> - Udemy</span></h4>
+  <h4>☑️ SQL for beginners - PostgreSQL <a href="https://www.udemy.com/certificate/UC-adeb96c5-d9d9-4245-be78-82747af491f3/?utm_source=sendgrid.com&utm_medium=email&utm_campaign=email">('SQL dla początkujących - PostgreSQL')</a> - Udemy</span></h4>
   <ul>
     <li>Installing pgAdmin and creating a database</li>
     <li>Selecting, filtering and sorting data</li>
@@ -102,7 +118,7 @@ By applying set of skills I had used so far like <b>creativity, attention to det
     <li>Modifying data</li>
   </ul>
 
-  <h4 <span> ☑️ GIT course for beginners <a href="https://www.udemy.com/certificate/UC-df602190-9d86-405c-94ce-3033af3af66e/?utm_source=sendgrid.com&utm_medium=email&utm_campaign=email"> ('Kurs GIT dla początkujących')</a> - Udemy</span></h4>
+  <h4>☑️ GIT course for beginners <a href="https://www.udemy.com/certificate/UC-df602190-9d86-405c-94ce-3033af3af66e/?utm_source=sendgrid.com&utm_medium=email&utm_campaign=email"> ('Kurs GIT dla początkujących')</a> - Udemy</span></h4>
    <ul>
    <li>Creating a local repository</li>
    <li>Adding files to the index</li>
@@ -111,24 +127,22 @@ By applying set of skills I had used so far like <b>creativity, attention to det
    <li>Creating branches</li>
    <li>Integrating with Git</li>
    </ul>   
-</section>
+
   <br> 
-  <section>
+
   <h4>📅 JUNE 2023</h4>
-  <h4 <span> ☑️ Practical course in software testing <a href="https://www.udemy.com/certificate/UC-0d768115-2bd7-44b9-b669-88ecf0c7ec7e/?utm_source=sendgrid.com&utm_medium=email&utm_campaign=email">(Praktyczny kurs testowania oprogramowania)</a> - Udemy</span></h4>
+  <h4>☑️ Practical course in software testing <a href="https://www.udemy.com/certificate/UC-0d768115-2bd7-44b9-b669-88ecf0c7ec7e/?utm_source=sendgrid.com&utm_medium=email&utm_campaign=email">(Praktyczny kurs testowania oprogramowania)</a> - Udemy</span></h4>
   <ul> 
     <li>BrowserStack platform</li>
     <li>API testing</li>
     <li>Practical web application testing</li>
     <li>SQL language syntax</li>
     <li>Security and performance testing</li>    
- </section>
-     
+
   <br> 
-  
- <section>
+
   <h4>📅 APRIL 2023</h4>
-  <h4 <span> ☑️ Fundamentals of manual software testing <a href="https://www.udemy.com/certificate/UC-a5a15448-75a3-43b2-9007-f9082643c0be/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email">(Podstawy manualnego testowania oprogramowania)</a> - Udemy</span></h4>
+  <h4>☑️ Fundamentals of manual software testing <a href="https://www.udemy.com/certificate/UC-a5a15448-75a3-43b2-9007-f9082643c0be/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email">(Podstawy manualnego testowania oprogramowania)</a> - Udemy</span></h4>
   <ul>
   <li>Theory and techniques of testing</li>
   <li>Tools for test case management</li>
@@ -136,7 +150,7 @@ By applying set of skills I had used so far like <b>creativity, attention to det
   <li>Web application architecture</li>
   <li>Software development models</li>
   </ul>
-  <h4 <span> ☑️ <a href="https://www.nowaty.coi.gov.pl/">New you in IT ('Nowa Ty w IT') - Centralny Ośrodek Informatyki</a></span></h4>
+  <h4>☑️ <a href="https://www.nowaty.coi.gov.pl/">New you in IT ('Nowa Ty w IT') - Centralny Ośrodek Informatyki</a></span></h4>
   <ul>
   <li>Business requirements</li>
   <li>Software development methodologies</li>
