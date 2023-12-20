@@ -67,7 +67,7 @@ By applying set of skills I had used so far like <b>creativity, attention to det
 
  <section> 
   <h4>📅 DECEMBER 2023</h4>
-  <h4>☑️ REST API Manual and Automation Foundation Level - Jaktestowac.pl  | in progress </h4>
+  <h4>☑️ REST API Testing: Manual and Automation Foundation Level - Jaktestowac.pl  | in progress </h4>
     <p>The program covers:</p>
     <ul>
        <li>Testing REST API - theory, HTTP Protocol, front-end/back-end communication, content and documentation in REST API.</li>
