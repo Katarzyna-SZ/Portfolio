@@ -150,6 +150,7 @@ By applying set of skills I had used so far like <b>creativity, attention to det
   <li>Web application architecture</li>
   <li>Software development models</li>
   </ul>
+  
   <h4>☑️ <a href="https://www.nowaty.coi.gov.pl/">New you in IT ('Nowa Ty w IT') - Centralny Ośrodek Informatyki</a></span></h4>
   <ul>
   <li>Business requirements</li>
