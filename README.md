@@ -73,7 +73,7 @@ By applying set of skills I had used so far like <b>creativity, attention to det
        <li>Testing REST API - theory, HTTP Protocol, front-end/back-end communication, content and documentation in REST API.</li>
        <li>Testing REST API with Postman</li>
        <li>JavaScript for testers</li>
-       <li>Automated Tests for REST API in JavaScript</li>
+       <li>Automated tests for REST API in JavaScript</li>
     </ul>
 
    <h4>☑️ Cypress: Web Automation Testing from Zero to Hero - Udemy | in progress </h4>
