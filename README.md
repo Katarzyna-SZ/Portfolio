@@ -167,13 +167,15 @@ By applying set of skills I had used so far like <b>creativity, attention to det
 <h3 id="software">🛠️ SOFTWARE</h3>
   <ul>
   <li>Slack</li>
-  <li>Trello</li>
+  <li>Postman</li>
+  <li>Swagger</li>
   <li>Jira</li>
   <li>Software testing management tools: TestRail, TestLink, qTest</li>
   <li>pgAdmin, phpMyAdmin, SQL Management Studio</li>
   <li>Git</li>
   <li>Figma</li>
-  <li>Visual Studio Code - for html & css use</li>
+  <li>CodePen</li>
+  <li>Visual Studio Code</li>
 </section>
 
 <hr>
@@ -198,6 +200,7 @@ By applying set of skills I had used so far like <b>creativity, attention to det
 <h3 id="techskills">🚀 TECH SKILLS</h3>
 <ul>
 <li>Knowledge of ISTQB Foundation Level </li>
+<li>REST API testing</li>
 <li>PostgreSQL basics</li>
 <li>Agile methotology</li>
 <li>HTML/CSS basics</li>
