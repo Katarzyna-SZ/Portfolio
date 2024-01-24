@@ -75,8 +75,6 @@ By applying set of skills I had used so far like <b>creativity, attention to det
        <li>JavaScript for testers</li>
        <li>Automated tests for REST API in JavaScript</li>
     </ul>
-
-   <h4>☑️ Cypress: Web Automation Testing from Zero to Hero - Udemy | in progress </h4>
     
   <br>
   
