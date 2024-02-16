@@ -80,7 +80,6 @@ By applying set of skills I had used so far like <b>creativity, attention to det
   
   <h4>📅 NOVEMBER 2023</h4>
   <h4>☑️ Introduction to JavaScript </h4>
-    <h5>from 30th of November - in progress</h5>
     <p>A comprehensive introduction to the JavaScript language, 8-week international course organized by <a href="https://codefirstgirls.com/">Code First Girls</a>. </p>
     <p>The program covers basics of:</p>
     <ul>
