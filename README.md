@@ -53,8 +53,20 @@ By applying set of skills I had used so far like <b>creativity, attention to det
 <h3 id="bugraport"> &#9989 Testing and BUG REPORTING - examples</h3>
 <p>Test Enviroment: <a href="https://scouts-test.futbolkolektyw.pl/pl"> Football Scout - web application</p>
 <ul>
-   <li><a href="https://docs.google.com/spreadsheets/d/1XJAE5RXNxEZNF6pUqKIkV7mDQfn1y6awz9Qq3oigNvo/edit#gid=0">Testing according to test plans</li>
+   <li><a href="https://docs.google.com/spreadsheets/d/1XJAE5RXNxEZNF6pUqKIkV7mDQfn1y6awz9Qq3oigNvo/edit#gid=0">Testing according to test cases</li>
    <li><a href="https://docs.google.com/spreadsheets/d/1avJS2puDxlZAwbHyocHoqSF2nmZBbasVCKWK2s5V4C4/edit#gid=0">Bug reporting</li>
+</ul>
+
+<h3 id="jirareport"> &#9989 JIRA BUG REPORT - examples</h3>
+<p>Test enviroment: <a href="https://swipeto.pl/">SwipeTo</p>
+<ul>
+   <li><a href="https://github.com/Katarzyna-SZ/challenge_portfolio_katarzyna/blob/main/TASK4.md#subtask4">Bug reports</li>
+</ul>
+
+<h3 id="testreport"> &#9989 TEST REPORT - example</h3>
+<p>Test Enviroment: <a href="https://scouts-test.futbolkolektyw.pl/pl"> Football Scout - web application</p>
+<ul>
+   <li><a href="https://drive.google.com/file/d/1mg5D9vLdsC1JWG8viS3QXfk-3E3M38Vr/view">Test Report</li>
 </ul>
 
 <h3 <span>&#9989 Cherry-IT: COLT 2/2023 led by <a href="https://www.linkedin.com/in/ania-czyrko-05933aa1/">Anna Czyrko</a></span></h3>
