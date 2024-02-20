@@ -71,7 +71,7 @@ By applying set of skills I had used so far like <b>creativity, attention to det
     <p>The program covers:</p>
     <ul>
        <li>Testing REST API - theory, HTTP Protocol, front-end/back-end communication, content and documentation in REST API.</li>
-       <li>Testing REST API with Postman</li>
+       <li>Postman: CRUD tests for selected resources, creating variables (global, eniviroment, local), authentication and authorization testing </li>
        <li>JavaScript for testers</li>
        <li>Automated tests for REST API in JavaScript</li>
     </ul>
