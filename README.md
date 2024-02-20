@@ -39,10 +39,21 @@ By applying set of skills I had used so far like <b>creativity, attention to det
  </ul>
       
 <h4 id="testcases"> &#9989 TEST CASES - examples</h4>
-<p>👉 Test Enviroment: <a href="https://scouts-test.futbolkolektyw.pl/pl"> Football Scout - web application</p>
+<p>Test Enviroment: <a href="https://scouts-test.futbolkolektyw.pl/pl"> Football Scout - web application</p>
 <ul>
    <li><a href="https://docs.google.com/spreadsheets/d/1mJdOEuRZ12kF0vo1M6Y5Y8ND3Ea848wuDf9D3GK81ZI/edit#gid=883793615"> Test cases based on User Stories </li>
    <li><a href="https://docs.google.com/spreadsheets/d/1Kgrs6vua1t3s0_tSLCdkq2qyzVyQu4uH1WcZPEnx2J0/edit#gid=0">Test cases based on experience </li>
+</ul>
+<p>Test Enviroment: <a href="https://pickeatup.io/">pick.eat.up</p>
+<ul>
+   <li><a href="https://docs.google.com/spreadsheets/d/1Dt-zxXi6CQUxg63vHd9nACvzE2CCaygxuciuGdriiJw/edit#gid=0">Test cases based on experience - Mobile App</li>
+</ul>
+
+<h4 id="bugraport"> &#9989 Testing and BUG REPORTING - examples</h4>
+<p>Test Enviroment: <a href="https://scouts-test.futbolkolektyw.pl/pl"> Football Scout - web application</p>
+<ul>
+   <li><a href="https://docs.google.com/spreadsheets/d/1XJAE5RXNxEZNF6pUqKIkV7mDQfn1y6awz9Qq3oigNvo/edit#gid=0">Testing according to test plans</li>
+   <li><a href="https://docs.google.com/spreadsheets/d/1avJS2puDxlZAwbHyocHoqSF2nmZBbasVCKWK2s5V4C4/edit#gid=0">Bug reporting<li>
 </ul>
 
 <h4 <span>&#9989 Cherry-IT: COLT 2/2023 led by <a href="https://www.linkedin.com/in/ania-czyrko-05933aa1/">Anna Czyrko</a></span></h4>
