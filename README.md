@@ -54,7 +54,7 @@ By applying set of skills I had used so far like <b>creativity, attention to det
 <p>Test Enviroment: <a href="https://scouts-test.futbolkolektyw.pl/pl"> Football Scout - web application</p>
 <ul>
    <li><a href="https://docs.google.com/spreadsheets/d/1XJAE5RXNxEZNF6pUqKIkV7mDQfn1y6awz9Qq3oigNvo/edit#gid=0">Testing according to test cases</li>
-   <li><a href="https://docs.google.com/spreadsheets/d/1avJS2puDxlZAwbHyocHoqSF2nmZBbasVCKWK2s5V4C4/edit#gid=0">Bug reporting</li>
+   <li><a href="https://docs.google.com/spreadsheets/d/1avJS2puDxlZAwbHyocHoqSF2nmZBbasVCKWK2s5V4C4/edit#gid=0">Bug report</li>
 </ul>
 
 <h3 id="jirareport"> &#9989 JIRA BUG REPORT - examples</h3>
