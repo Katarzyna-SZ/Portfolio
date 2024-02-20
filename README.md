@@ -39,7 +39,7 @@ By applying set of skills I had used so far like <b>creativity, attention to det
  </ul>
       
 <h4 id="testcases"> &#9989 TEST CASES - examples</h4>
-<p>👉 Test Enviroment: <a href="https://scouts-test.futbolkolektyw.pl/pl"> Football Scout - web application></p>
+<p>👉 Test Enviroment: <a href="https://scouts-test.futbolkolektyw.pl/pl"> Football Scout - web application</p>
 <ul>
    <li><a href="https://docs.google.com/spreadsheets/d/1mJdOEuRZ12kF0vo1M6Y5Y8ND3Ea848wuDf9D3GK81ZI/edit#gid=883793615"> Test cases based on User Stories </li>
    <li><a href="https://docs.google.com/spreadsheets/d/1Kgrs6vua1t3s0_tSLCdkq2qyzVyQu4uH1WcZPEnx2J0/edit#gid=0">Test cases based on experience </li>
