@@ -3,7 +3,7 @@
 <h4>TABLE OF CONTENTS</h4>
 
 <hr>
-✔️<a href="#about">ABOUT ME</a> ✔️<a href="#projects">PROJECTS</a> ✔️<a href="#courses">COURSES</a>✔️<a href="#software">SOFTWARE</a> ✔️<a href="#techskills">TECH SKILLS</a> ✔️<a href="#softskills">SOFT SKILLS</a>
+✔️<a href="#about">ABOUT ME</a> ✔️<a href="#projects">PROJECTS</a> ✔️<a href="#testcases">TEST CASES example</a> ✔️<a href="#bugraport">BUG RAPORT example</a> ✔️<a href="#jirareport">JIRA BUG REPORT example</a> ✔️<a href="#testreport">TEST REPORT example</a> ✔️<a href="#courses">COURSES</a>✔️<a href="#software">SOFTWARE</a> ✔️<a href="#techskills">TECH SKILLS</a> ✔️<a href="#softskills">SOFT SKILLS</a>
 <hr>
 
 <section>
@@ -37,6 +37,13 @@ By applying set of skills I had used so far like <b>creativity, attention to det
    <li><a href="https://github.com/Katarzyna-SZ/challenge_portfolio_katarzyna/blob/main/TASK5.md">Task 5 - SQL Part 1</li>
    <li><a href="https://github.com/Katarzyna-SZ/challenge_portfolio_katarzyna/blob/main/TASK6.md">Task 6 - SQL Part 2</li>
  </ul>
+      
+<h4 id="testcases"> &#9989 TEST CASES - examples</h4>
+<p>👉 Test Enviroment: <a href="https://scouts-test.futbolkolektyw.pl/pl"> Football Scout - web application></p>
+<ul>
+   <li><a href="https://docs.google.com/spreadsheets/d/1mJdOEuRZ12kF0vo1M6Y5Y8ND3Ea848wuDf9D3GK81ZI/edit#gid=883793615"> Test cases based on User Stories </li>
+   <li><a href="https://docs.google.com/spreadsheets/d/1Kgrs6vua1t3s0_tSLCdkq2qyzVyQu4uH1WcZPEnx2J0/edit#gid=0">Test cases based on experience </li>
+</ul>
 
 <h4 <span>&#9989 Cherry-IT: COLT 2/2023 led by <a href="https://www.linkedin.com/in/ania-czyrko-05933aa1/">Anna Czyrko</a></span></h4>
 <p>Scope of work:</p>
