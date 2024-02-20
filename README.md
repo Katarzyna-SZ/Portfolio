@@ -7,7 +7,7 @@
 <hr>
 
 <section>
-<h3 id="about">👋🏻 ABOUT ME</h3>
+<h2 id="about">👋🏻 ABOUT ME</h2>
 
 <p align="justify"><b>"Change is the only constant..."</b> It is fascinating how a thought that originated in ancient history turns out to be even more relevant in a fast-paced world we live in. It can be overwhelming but also thrilling. With my inherent curiosity, I enthusiastically choose the second option, which led me to make a bold career shift into the field of software testing.</p>
 
@@ -22,10 +22,10 @@ By applying set of skills I had used so far like <b>creativity, attention to det
 <hr>
 
 <section>
-<h3 id="projects">🎯 PROJECTS</h3>
+<h2 id="projects">🎯 PROJECTS</h2>
 
 
-<h4 <span>&#9989 <a href= "https://github.com/Katarzyna-SZ/challenge_portfolio_katarzyna"> DARE IT - Challenge portfolio </a> </span></h4>
+<h3 <span>&#9989 <a href= "https://github.com/Katarzyna-SZ/challenge_portfolio_katarzyna"> DARE IT - Challenge portfolio </a> </span></h3>
 <p><b>DARE IT Manual testing in practice</b> is a 7-week challenge consisting of 6 technical tasks that are worked on in weekly sprints. The individual tasks contribute to the QA Manual Testing project.</p>
 
 <p>Scope of work:</p>
@@ -38,7 +38,7 @@ By applying set of skills I had used so far like <b>creativity, attention to det
    <li><a href="https://github.com/Katarzyna-SZ/challenge_portfolio_katarzyna/blob/main/TASK6.md">Task 6 - SQL Part 2</li>
  </ul>
       
-<h4 id="testcases"> &#9989 TEST CASES - examples</h4>
+<h3 id="testcases"> &#9989 TEST CASES - examples</h3>
 <p>Test Enviroment: <a href="https://scouts-test.futbolkolektyw.pl/pl"> Football Scout - web application</p>
 <ul>
    <li><a href="https://docs.google.com/spreadsheets/d/1mJdOEuRZ12kF0vo1M6Y5Y8ND3Ea848wuDf9D3GK81ZI/edit#gid=883793615"> Test cases based on User Stories </li>
@@ -50,14 +50,14 @@ By applying set of skills I had used so far like <b>creativity, attention to det
    <li><a href="https://docs.google.com/spreadsheets/d/1Dt-zxXi6CQUxg63vHd9nACvzE2CCaygxuciuGdriiJw/edit#gid=0">Test cases based on experience - Mobile App</li>
 </ul>
 
-<h4 id="bugraport"> &#9989 Testing and BUG REPORTING - examples</h4>
+<h3 id="bugraport"> &#9989 Testing and BUG REPORTING - examples</h3>
 <p>Test Enviroment: <a href="https://scouts-test.futbolkolektyw.pl/pl"> Football Scout - web application</p>
 <ul>
    <li><a href="https://docs.google.com/spreadsheets/d/1XJAE5RXNxEZNF6pUqKIkV7mDQfn1y6awz9Qq3oigNvo/edit#gid=0">Testing according to test plans</li>
    <li><a href="https://docs.google.com/spreadsheets/d/1avJS2puDxlZAwbHyocHoqSF2nmZBbasVCKWK2s5V4C4/edit#gid=0">Bug reporting</li>
 </ul>
 
-<h4 <span>&#9989 Cherry-IT: COLT 2/2023 led by <a href="https://www.linkedin.com/in/ania-czyrko-05933aa1/">Anna Czyrko</a></span></h4>
+<h3 <span>&#9989 Cherry-IT: COLT 2/2023 led by <a href="https://www.linkedin.com/in/ania-czyrko-05933aa1/">Anna Czyrko</a></span></h3>
 <p>Scope of work:</p>
 <ul>
   <li>Initiating work with GIT, including installation and creation of the first repository.</li>
@@ -78,11 +78,11 @@ By applying set of skills I had used so far like <b>creativity, attention to det
 
 <hr>
 
-<h3 id="courses">📚 COURSES</h3>
+<h2 id="courses">📚 COURSES</h2>
 
  <section> 
   <h4>📅 DECEMBER 2023</h4>
-  <h4>☑️ REST API Testing: Manual and Automation Foundation Level - Jaktestowac.pl  | in progress </h4>
+  <h3>☑️ REST API Testing: Manual and Automation Foundation Level - Jaktestowac.pl  | in progress </h3>
     <p>The program covers:</p>
     <ul>
        <li>Testing REST API - theory, HTTP Protocol, front-end/back-end communication, content and documentation in REST API.</li>
@@ -94,7 +94,7 @@ By applying set of skills I had used so far like <b>creativity, attention to det
   <br>
   
   <h4>📅 NOVEMBER 2023</h4>
-  <h4>☑️ Introduction to JavaScript </h4>
+  <h3>☑️ Introduction to JavaScript </h3>
     <p>A comprehensive introduction to the JavaScript language, 8-week international course organized by <a href="https://codefirstgirls.com/">Code First Girls</a>. </p>
     <p>The program covers basics of:</p>
     <ul>
@@ -109,7 +109,7 @@ By applying set of skills I had used so far like <b>creativity, attention to det
   <br>  
   
   <h4>📅 OCTOBER 2023</h4>
-  <h4>☑️ <a href="https://www.udemy.com/certificate/UC-73c38e44-9a04-46ec-8cb1-933559a434b9/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com">HTML for QA Testers (DevTools, Accessibility, XPath) - Udemy</a><span></span></h4>
+  <h3>☑️ <a href="https://www.udemy.com/certificate/UC-73c38e44-9a04-46ec-8cb1-933559a434b9/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com">HTML for QA Testers (DevTools, Accessibility, XPath) - Udemy</a><span></span></h3>
      
    <ul>
     <li>HTML DOM</li>
@@ -120,7 +120,7 @@ By applying set of skills I had used so far like <b>creativity, attention to det
   <br>  
   
   <h4>📅 AUGUST 2023</h4>
-  <h4>☑️ SQL for beginners - PostgreSQL <a href="https://www.udemy.com/certificate/UC-adeb96c5-d9d9-4245-be78-82747af491f3/?utm_source=sendgrid.com&utm_medium=email&utm_campaign=email">('SQL dla początkujących - PostgreSQL')</a> - Udemy</span></h4>
+  <h3>☑️ SQL for beginners - PostgreSQL <a href="https://www.udemy.com/certificate/UC-adeb96c5-d9d9-4245-be78-82747af491f3/?utm_source=sendgrid.com&utm_medium=email&utm_campaign=email">('SQL dla początkujących - PostgreSQL')</a> - Udemy</span></h3>
   <ul>
     <li>Installing pgAdmin and creating a database</li>
     <li>Selecting, filtering and sorting data</li>
@@ -130,7 +130,7 @@ By applying set of skills I had used so far like <b>creativity, attention to det
     <li>Modifying data</li>
   </ul>
 
-  <h4>☑️ GIT course for beginners <a href="https://www.udemy.com/certificate/UC-df602190-9d86-405c-94ce-3033af3af66e/?utm_source=sendgrid.com&utm_medium=email&utm_campaign=email"> ('Kurs GIT dla początkujących')</a> - Udemy</span></h4>
+  <h3>☑️ GIT course for beginners <a href="https://www.udemy.com/certificate/UC-df602190-9d86-405c-94ce-3033af3af66e/?utm_source=sendgrid.com&utm_medium=email&utm_campaign=email"> ('Kurs GIT dla początkujących')</a> - Udemy</span></h3>
    <ul>
    <li>Creating a local repository</li>
    <li>Adding files to the index</li>
@@ -143,7 +143,7 @@ By applying set of skills I had used so far like <b>creativity, attention to det
   <br> 
 
   <h4>📅 JUNE 2023</h4>
-  <h4>☑️ Practical course in software testing <a href="https://www.udemy.com/certificate/UC-0d768115-2bd7-44b9-b669-88ecf0c7ec7e/?utm_source=sendgrid.com&utm_medium=email&utm_campaign=email">(Praktyczny kurs testowania oprogramowania)</a> - Udemy</span></h4>
+  <h3>☑️ Practical course in software testing <a href="https://www.udemy.com/certificate/UC-0d768115-2bd7-44b9-b669-88ecf0c7ec7e/?utm_source=sendgrid.com&utm_medium=email&utm_campaign=email">(Praktyczny kurs testowania oprogramowania)</a> - Udemy</span></h3>
   <ul> 
     <li>BrowserStack platform</li>
     <li>API testing</li>
@@ -154,7 +154,7 @@ By applying set of skills I had used so far like <b>creativity, attention to det
   <br> 
 
   <h4>📅 APRIL 2023</h4>
-  <h4>☑️ Fundamentals of manual software testing <a href="https://www.udemy.com/certificate/UC-a5a15448-75a3-43b2-9007-f9082643c0be/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email">(Podstawy manualnego testowania oprogramowania)</a> - Udemy</span></h4>
+  <h3>☑️ Fundamentals of manual software testing <a href="https://www.udemy.com/certificate/UC-a5a15448-75a3-43b2-9007-f9082643c0be/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email">(Podstawy manualnego testowania oprogramowania)</a> - Udemy</span></h3>
   <ul>
   <li>Theory and techniques of testing</li>
   <li>Tools for test case management</li>
@@ -163,7 +163,7 @@ By applying set of skills I had used so far like <b>creativity, attention to det
   <li>Software development models</li>
   </ul>
   
-  <h4>☑️ <a href="https://www.nowaty.coi.gov.pl/">New you in IT ('Nowa Ty w IT') - Centralny Ośrodek Informatyki</a></span></h4>
+  <h3>☑️ <a href="https://www.nowaty.coi.gov.pl/">New you in IT ('Nowa Ty w IT') - Centralny Ośrodek Informatyki</a></span></h3>
   <ul>
   <li>Business requirements</li>
   <li>Software development methodologies</li>
@@ -176,7 +176,7 @@ By applying set of skills I had used so far like <b>creativity, attention to det
 <hr>
 
 <section>
-<h3 id="software">🛠️ SOFTWARE</h3>
+<h2 id="software">🛠️ SOFTWARE</h2>
   <ul>
   <li>Slack</li>
   <li>Postman</li>
@@ -193,7 +193,7 @@ By applying set of skills I had used so far like <b>creativity, attention to det
 <hr>
 
 <section>
-<h3 id="softskills">🤝🧏🏻 SOFT SKILLS</h3>
+<h2 id="softskills">🤝🧏🏻 SOFT SKILLS</h2>
 <ul>
 <li>TEAMWORK</li>
 <li>Fast adaptability</li>
@@ -209,7 +209,7 @@ By applying set of skills I had used so far like <b>creativity, attention to det
 <hr>
 
 <section>
-<h3 id="techskills">🚀 TECH SKILLS</h3>
+<h2 id="techskills">🚀 TECH SKILLS</h2>
 <ul>
 <li>Knowledge of ISTQB Foundation Level </li>
 <li>REST API testing</li>
