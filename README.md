@@ -24,6 +24,18 @@ By applying set of skills I had used so far like <b>creativity, attention to det
 <section>
 <h2 id="projects">🎯 PROJECTS</h2>
 
+<h3>&#9989 REST API testing of deployed app</h3>
+
+<p>The repository contains documentation for an API testing project conducted using Postman. It showcases practical implementation and testing strategies learned from a course on API testing with Postman, part of the REST API Manual and Automation Foundation Level course offered by Jaktestowac.pl.</p>
+
+<p><a href="https://github.com/Katarzyna-SZ/REST_API_deployed_web_app">👉🏻The repository covers:</p>
+<ul>
+   <li>REST API methods: GET, POST, PUT, PATCH, DELETE</li>
+   <li>Creation of collections and different levels of variables</li>
+   <li>Execution of CRUD tests for various app functionalities</li>
+   <li>Writing necessary pre-scripts and simple tests</li>
+   <li>End-to-end (E2E) testing of the deployed app</li>
+</ul>
 
 <h3 <span>&#9989 <a href= "https://github.com/Katarzyna-SZ/challenge_portfolio_katarzyna"> DARE IT - Challenge portfolio </a> </span></h3>
 <p><b>DARE IT Manual testing in practice</b> is a 7-week challenge consisting of 6 technical tasks that are worked on in weekly sprints. The individual tasks contribute to the QA Manual Testing project.</p>
@@ -107,7 +119,7 @@ By applying set of skills I had used so far like <b>creativity, attention to det
   
   <h4>📅 NOVEMBER 2023</h4>
   <h3>☑️ Introduction to JavaScript </h3>
-    <p>A comprehensive introduction to the JavaScript language, 8-week international course organized by <a href="https://codefirstgirls.com/">Code First Girls</a>. </p>
+    <p>A comprehensive introduction to the JavaScript language, 8-week international course organized by <a href="https://codefirstgirls.com/">Code First Girls</a>.</p>
     <p>The program covers basics of:</p>
     <ul>
        <li>Javascript</li>
