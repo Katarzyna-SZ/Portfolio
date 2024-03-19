@@ -105,6 +105,10 @@ By applying set of skills I had used so far like <b>creativity, attention to det
 <h2 id="courses">📚 COURSES</h2>
 
  <section> 
+  <h4>📅 JANUARY - MARCH 2024</h4>
+   <h3>☑️ <a href="https://incoacademy.pl/programs/117">Get into QA </h3> 
+    <p>The program covered the most important topics for individuals entering the QA industry, starting from building soft skills such as networking and personal branding, to technical materials such as basics of testing, API testing, SQL, and an introduction to automation. Through the program, I had the opportunity to take part in a mock technical interview.</p>
+    
   <h4>📅 DECEMBER 2023</h4>
   <h3>☑️ REST API Testing: Manual and Automation Foundation Level - Jaktestowac.pl  | in progress </h3>
     <p>The program covers:</p>
